@@ -85,6 +85,7 @@ button {
     line-height: 3;
     text-align: center;
     background-color: hsl(71, 73%, 54%);
+    border: none;
     color: white;
     border-radius: 8px;
     margin-top: 2rem
